@@ -4,8 +4,8 @@
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.See the Terra Grants Process on how to submit a proposal.
 > 
-- **Project Name:** Name of your project (e.g. Fantasy Investar)
-- **Team Name:** Legal name of your team (e.g. Fantary Investar)
+- **Project Name:** SafePal
+- **Team Name:** SafePal
 - **Payment Address:** Terra Address
 
 > ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
@@ -22,19 +22,19 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Terra.
-- An indication of why your team is interested in creating this project.
+- A brief description of your project. | Founded in 2018, SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. Being the first hardware wallet portfolio of Binance, SafePal is now serving more than 4 million users across the globe. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth. SafePal has not only supported 15 languages, 30 blockchains, 10,000+ tokens, and NFTs, but also integrated with BinanceTrading DApp, and all DApps on Ethereum, BSC, Tron, Solana networks and more.
+- An indication of how your project relates to / integrates into Terra.| SafePal will fully support Terra and its ecosystem by integrating the core elements of Terra ecosystem including $Luna, stable tokens, CW20 tokens, DApps into the wallet, enabling the large and active SafePal community to access the Terra ecosystem safely and easily. 
+- An indication of why your team is interested in creating this project.| Terra has been one of the leading blockchains in the space and SafePal has always planned to support Terra in its earliest pipeline. The Terra integration is also heavily requested by the SafePal community. As a user-oriented and community-driven brand, SafePal will follow user demands and support Terra in the product. 
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+- Mockups/designs of any UI components | Not applicable
+- Data models / API specifications of the core functionality | Not applicable. SafePal is close-sourced at the moment
+- An overview of the technology stack to be used | Not applicable
+- Documentation of core components, protocols, architecture, etc. to be deployed | Not applicable. SafePal is close-sourced at the moment
+- PoC/MVP or other relevant prior work or research on the topic | SafePal has already supported 30 blockchains including Bitcoin, Ethereum, BinanceSmartChain, Solana, Avalanche, Fantom and many more. (Full list can be found on https://safepal.io/coin/lists. 
 - What your project is *not* or will *not* provide or implement
     - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
@@ -42,10 +42,10 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Terra landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Terra ecosystem?
+- Where and how does your project fit into the ecosystem? | On one hand, SafePal has a large and active global user base which can help to accelerate the adoption of Terra blockchain technology in the ecosystem. By brining Terra to the community, SafePal can become a powerful user acquisition and education platform for Terra and the applications in the Terra ecosystem. On the other hand, SafePal provides the most secure and user-friendly wallet solution for users to secure and manage their Terra assets securely and easily. These two are the great fits for the wider adoption of Terra in the long run.
+- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? The 4 million+ user base of SafePal (and still growing exponentially)
+- What need(s) does your project meet? Users need a safe and user-friendly wallet to keep their Terra assets secure and manage the assets with the least efforts. SafePal provides not only the most secure hardware wallet (www.safepal.io) for users to keep their private keys safe, but also provide a one-stop asset management tool---the SafePal App---for users to manage and growth their crypto assets day to day. 
+- Are there any other projects similar to yours in the Terra ecosystem? | We don't think there are any other wallet solutions like us in Terra ecosystem or in other ecosystems, as we provide both the most secure hardware wallet solution and also the most friendly software wallet to the users, both types of wallets paired and managed through the SafePal App, where users can manage, send, swap, trade and stake as they like. 
     - If so, how is your project different?
     - If not, are there similar projects in related ecosystems?
 
@@ -53,45 +53,40 @@ Help us locate your project in the Terra landscape and what problems it tries to
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Name of team leader： Veronica Wong
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. wagmi@terra.money)
-- **Website:**
+- **Contact Name:** Veronica Wong
+- **Contact Email:** veronica@safepal.io
+- **Website:** www.safepal.io
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line.
-- **Registered Legal Entity:** Name of your registered legal entity, if available.
+- **Registered Address:** Suite 6, House of Ansuya, Revolution Avenue, Victoria, Mahe, Republic of Seychelles
+- **Registered Legal Entity:** SAFEPAL LTD.
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+SafePal is managed by a team of security, data science and hardware engineers from Tencent and Huawei. The team is sophisticated in building scaling solutions that solves massive user pain points and providing secure elements and friendly experiences in the product.
 
-If anyone on your team has applied for a grant to Terra previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
 - [https://github.com/](https://github.com/)<your_organisation>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_1>
-- [https://github.com/](https://github.com/)<your_organisation>/<project_2>
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- [https://github.com/](https://github.com/)<team_member_1>
-- [https://github.com/](https://github.com/)<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_1>
-- [https://www.linkedin.com/](https://www.linkedin.com/)<person_2>
+- https://www.linkedin.com/in/safepal-veronica/
 
 ## Development Status
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. 
+
+| Since SafePal is close-sourced at the moment, we are not able to disclose the codes or APIs here. But we have already started to integrate Terra as we plan, including $LUNA, CW20 tokens, stable tokens and DApps into the wallet. The integration is 30% done and we are looking to deliver the new update within 4-6 weeks.
+
+This could be:
 
 - links to improvement proposals or RFP (requests for proposal),
 - academic publications relevant to the problem,
@@ -120,39 +115,28 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k for initial grants* and $100k for follow-up grants. (e.g. 12,000 USD). This and the costs for each milestone need to be in USD; if the grant is paid out in Luna, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 1-1.5 month
+- **Full-Time Equivalent (FTE):** 3 FTE
+- **Total Costs:** $30K
 
-### Milestone 1 Example — Implement Terra Modules
+### Milestone — Full integration of the Terra network
 
-- **Estimated duration:** 1 month
-- **FTE:** 2
-- **Costs:** 8,000 USD
+- **Estimated duration:** 1-1.5 month
+- **FTE:** 3
+- **Costs:** 30,000 USD
 
-[Example Milestone Table](https://github.com/terramoney/terra-money-grants/blob/main/Untitled%20Database%20076bcbe63d9348558de4e6688af1d89e.csv)
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 4,000 USD
-
-...
-
-## Future Plans
-
-Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+**[Integration Details]**
+- Support $LUNA, CW20 tokens, stable tokens
+- Support the decentralized application and smart contracts on Terra
+- Enable $LUNA in the SafePal Cross-chain Swap so that users can swap other assets into $LUNA and participate in the Terra ecosystem
+- Integrate $LUNA in the fiat on-ramp via the Simplex integration in SafePal, so that users can buy $LUNA using credit cards, debit cards and more
+- Support the applications in Terra ecossytem for early-stage user acquisition and education
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** Terra Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Terra Website
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- Wheter there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- We have supported a lot of early-stage projects on BinanceSmartChain and Nervos for pre-token-launch user education and acquisition through our WalletHolderOffering program. Users need to complete assigned tasks and use the product in order to win exclusive token incentives from our partners. Previous WHO campaigns have been very successful, with the track record metrics shared with Terraformlabs members already.
+- We have applied for the Nervos grant, which will be disclosed by Nervos foundation on December 21, 2021.
