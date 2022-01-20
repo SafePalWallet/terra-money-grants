@@ -6,7 +6,7 @@
 > 
 - **Project Name:** SafePal
 - **Team Name:** SafePal
-- **Payment Address:** Terra Address
+- **Payment Address:** terra15lmnl5xsqrjz87h0fhp8r33ynw35qlz7qd0xuk
 
 > ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
 > 
